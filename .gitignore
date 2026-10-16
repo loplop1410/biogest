@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+.pnpm-store/
+.pnpm-node-modules/
+artifacts/
+*.log
+.env
+.env.*
+!.env.example

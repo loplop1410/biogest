@@ -24,6 +24,19 @@ Pruebas de las reglas de negocio:
 npm test
 ```
 
+## Colaborar en GitHub
+
+Repositorio: [loplop1410/biogest](https://github.com/loplop1410/biogest).
+
+Cualquier persona puede consultar el código y descargar el HTML de demostración. Para proponer modificaciones al proyecto:
+
+1. Inicia sesión en GitHub y pulsa **Fork** para crear una copia en tu cuenta.
+2. Modifica tu copia, desde el editor de GitHub o clonándola para trabajar localmente.
+3. Comprueba el funcionamiento con `npm test` y `npm run build`. Si cambias la aplicación, actualiza también `entrega/BioGest.html` con `npm run build:html`.
+4. Abre un **Pull request** hacia este repositorio y describe tu mejora para que el propietario la revise e incorpore.
+
+La edición directa del repositorio original requiere que el propietario te invite como colaborador y que aceptes la invitación. Los registros de la aplicación siguen guardándose de forma independiente en cada navegador.
+
 ## Recorrido de demostración — aproximadamente 2 minutos
 
 1. En **Dashboard**, revisa indicadores, alertas y próximos mantenimientos.
